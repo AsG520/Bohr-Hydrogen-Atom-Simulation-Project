@@ -8,9 +8,9 @@ Features in Simulation
 - 2D representation of the Hydrogen atom. 
 
 Math Concepts in Simulation
-- Vector Diagram
-- Sine Trigonometric Function
-- Cosine Trigonometric Function
+- Vector Diagram.
+- Sine Trigonometric Function.
+- Cosine Trigonometric Function.
 
 How it Works
 - The program initializes important variables for the frame, proton, electron, orbital shell, and colors.

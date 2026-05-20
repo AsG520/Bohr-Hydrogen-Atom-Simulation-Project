@@ -33,5 +33,4 @@ Video Details for Simulation
 
 I plan to make a YouTube video that will showcase the history behide the Bohr-Rutherford diagram, more deep explanation of how I programmed the project, and share general chemistry knowledge. This video will help give me a reflection on what I learned and for others who are interested in this particular subject and simulation :D.
 
-Video Link of Simulating a Bohr-Rutherford Diagram of Hydrogen in Java - [Coming
-Soon!].
+Video Link of Simulating a Bohr-Rutherford Diagram of Hydrogen in Java - [2026-06-10!].

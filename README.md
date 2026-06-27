@@ -1,4 +1,4 @@
-# Hydrogen-Atom-Simulation-Project
+# Bohr-Hydrogen-Atom-Simulation-Project
 
 Features in Simulation
 - Real time animation using a timer.
